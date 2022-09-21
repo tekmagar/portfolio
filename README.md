@@ -1,6 +1,7 @@
 # Portfolio
 This portfolio is a small project using HTML/CSS & Bootstrap.
-[Live Heroku Deployment](https://portfolio-aiyappa.herokuapp.com/)
+
+[Live Heroku Deployment](https://tekmagar-portfolio.herokuapp.com/)
 
 ## Technologies Used
 *HTML
